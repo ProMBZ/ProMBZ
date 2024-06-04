@@ -13,15 +13,15 @@
 
 - 👯 I’m looking to collaborate on [All Projects](https://muhammadbinzohaib.vercel.app/)
 
-- 👨‍💻 All of my projects are available at [https://muhammadbinzohaib.vercel.app/](https://muhammadbinzohaib.vercel.app/)
+- 👨‍💻 All of my projects are available at [My Portfolio-Website](https://muhammadbinzohaib.vercel.app/)
 
 - 📝 I regularly write articles on [https://techmbz-blogs.vercel.app/](https://techmbz-blogs.vercel.app/)
 
-- 💬 Ask me about **Next.js,HTML,CSS,TS,Python**
+- 💬 Ask me about **Next.js, HTML,CSS, TS,Python**
 
-- 📫 How to reach me **muhammadzohaib1415@gmail.com**
+- 📫 How to reach me [My Email](muhammadzohaib1415@gmail.com)
 
-- ⚡ Fun fact **I think i am a hardworker**
+- ⚡ Fun fact **I think I am a funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
