@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Muhammad Bin Zohaib</h1>
 <h3 align="center">A passionate frontend developer from pakistan</h3>
 
-<img align="right" alt="coding" width="370" src="https://cdn.dribbble.com/users/461802/screenshots/4753031/designergif.gif">
+<img align="right" alt="coding" width="370" src="https://cdn.dribbble.com/users/926537/screenshots/4502924/python-2.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prombz&label=Profile%20views&color=0e75b6&style=flat" alt="prombz" /> </p>
 
