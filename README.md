@@ -1,4 +1,3 @@
-![logo](https://github.com/ProMBZ/ProMBZ/blob/main/My%20Background.png)
 <h1 align="center">Hi 👋, I'm Muhammad Bin Zohaib</h1>
 <h3 align="center">A passionate frontend developer from pakistan</h3>
 
