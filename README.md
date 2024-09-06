@@ -25,10 +25,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/https://codepen.io/muhammad-bin-zohaib/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="https://codepen.io/muhammad-bin-zohaib/" height="30" width="40" /></a>
+<a href="https://codepen.io/muhammad-bin-zohaib/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="https://codepen.io/muhammad-bin-zohaib/" height="30" width="40" /></a>
 <a href="https://twitter.com/mbz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mbz" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/mbz1415/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/mbz1415/" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/mbz1415/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/mbz1415/" height="30" width="40" /></a>
+<a href="https://www.facebook.com/mbz1415/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/mbz1415/" height="30" width="40" /></a>
+<a href="https://www.instagram.com/mbz1415/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/mbz1415/" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/https://www.youtube.com/channel/uclczck101sajrj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/uclczck101sajrj" height="30" width="40" /></a>
 </p>
 
