@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [Ecommerce Website](https://car-hub-web.vercel.app/)
 
-- 🌱 I’m currently learning **Next.js**
+- 🌱 I’m currently learning **Python**
 
 - 👯 I’m looking to collaborate on [All Projects](https://muhammadbinzohaib.vercel.app/)
 
@@ -17,11 +17,11 @@
 
 - 📝 I regularly write articles on [https://techmbz-blogs.vercel.app/](https://techmbz-blogs.vercel.app/)
 
-- 💬 Ask me about **Next.js, HTML,CSS, TS,Python**
+- 💬 Ask me about **Next.js, HTML, CSS, TS, Python, Langchain, LangGrpah, Node.js**
 
 - 📫 How to reach me [My Email](muhammadzohaib1415@gmail.com)
 
-- ⚡ Fun fact **I think I am a funny**
+- ⚡ Fun fact **I think I am innocent**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
