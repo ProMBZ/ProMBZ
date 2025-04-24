@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Muhammad Bin Zohaib</h1>
-<h3 align="center">A Passionate Frontend Developer and AI Developer From Pakistan</h3>
+<h3 align="center">A Passionate Full Stack Developer and AI Developer From Pakistan</h3>
 
 <img align="right" alt="coding" width="370" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif">
 
