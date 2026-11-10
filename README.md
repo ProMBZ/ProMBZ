@@ -84,7 +84,6 @@ I also contribute to the n8n ecosystem as a Verified Creator, Certified Expert, 
 - LangChain
 - LangGraph
 - AI Agents & Agentic Workflows
-- NLP & LLM Integrations
 - Prompt Engineering
 - Structured Outputs & Tool Calling
 
@@ -211,25 +210,57 @@ I'm open to international remote opportunities, AI Automation Engineering roles,
 - 🌐 AI Coders: [aicoders.dev](https://aicoders.dev/)
 - 📧 Email: [muhammad.specials@gmail.com](mailto:muhammad.specials@gmail.com)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
-<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> 
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
-<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> 
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> 
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
-<a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> 
-<a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> 
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> 
+
+<h3 align="left">⚙️ Languages and Tools:</h3>
+
+<h4 align="left">AI, Automation & NLP</h4>
+<p align="left">
+  <a href="https://n8n.io/" target="_blank"><img src="https://devicons.io/devicons/icons/n8n.svg" alt="n8n" width="45" height="45"/></a>
+  <a href="https://www.make.com/" target="_blank"><img src="https://devicons.io/devicons/icons/make.svg" alt="Make" width="45" height="45"/></a>
+  <a href="https://openai.com/" target="_blank"><img src="https://devicons.io/devicons/icons/openai.svg" alt="OpenAI" width="45" height="45"/></a>
+  <a href="https://www.anthropic.com/" target="_blank"><img src="https://devicons.io/devicons/icons/anthropic.svg" alt="Anthropic" width="45" height="45"/></a>
+  <a href="https://mistral.ai/" target="_blank"><img src="https://devicons.io/devicons/icons/mistral-ai.svg" alt="Mistral AI" width="45" height="45"/></a>
+  <a href="https://www.langchain.com/" target="_blank"><img src="https://devicons.io/devicons/icons/langchain.svg" alt="LangChain" width="45" height="45"/></a>
+  <a href="https://www.langchain.com/langgraph" target="_blank"><img src="https://devicons.io/devicons/icons/langgraph.svg" alt="LangGraph" width="45" height="45"/></a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=prombz&show_icons=true&locale=en&layout=compact" alt="prombz" /></p>
+<h4 align="left">Voice AI & Conversational AI</h4>
+<p align="left">
+  <a href="https://vapi.ai/" target="_blank"><img src="https://vapi.ai/brand/img/va-square-1.svg" alt="Vapi" width="45" height="45"/></a>
+  <a href="https://www.retellai.com/" target="_blank"><img src="https://cdn.prod.website-files.com/64ada0f2685b2d18caa5e699/6a6100c9991b0523680dff6a_logo.svg" alt="Retell AI" width="100" height="45"/></a>
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prombz&show_icons=true&locale=en" alt="prombz" /></p>
+<h4 align="left">Programming & Full-Stack Development</h4>
+<p align="left">
+  <a href="https://www.python.org/" target="_blank"><img src="https://devicons.io/devicons/icons/python.svg" alt="Python" width="45" height="45"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://devicons.io/devicons/icons/javascript.svg" alt="JavaScript" width="45" height="45"/></a>
+  <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://devicons.io/devicons/icons/typescript.svg" alt="TypeScript" width="45" height="45"/></a>
+  <a href="https://nodejs.org/" target="_blank"><img src="https://devicons.io/devicons/icons/nodejs.svg" alt="Node.js" width="45" height="45"/></a>
+  <a href="https://nextjs.org/" target="_blank"><img src="https://devicons.io/devicons/icons/nextjs.svg" alt="Next.js" width="45" height="45"/></a>
+  <a href="https://www.djangoproject.com/" target="_blank"><img src="https://devicons.io/devicons/icons/django.svg" alt="Django" width="45" height="45"/></a>
+  <a href="https://tailwindcss.com/" target="_blank"><img src="https://devicons.io/devicons/icons/tailwind.svg" alt="Tailwind CSS" width="45" height="45"/></a>
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prombz&" alt="prombz" /></p>
+<h4 align="left">Platforms, Integrations & Developer Tools</h4>
+<p align="left">
+  <a href="https://airtable.com/" target="_blank"><img src="https://devicons.io/devicons/icons/airtable.svg" alt="Airtable" width="45" height="45"/></a>
+  <a href="https://supabase.com/" target="_blank"><img src="https://devicons.io/devicons/icons/supabase.svg" alt="Supabase" width="45" height="45"/></a>
+  <a href="https://slack.com/" target="_blank"><img src="https://devicons.io/devicons/icons/slack.svg" alt="Slack" width="45" height="45"/></a>
+  <a href="https://git-scm.com/" target="_blank"><img src="https://devicons.io/devicons/icons/git.svg" alt="Git" width="45" height="45"/></a>
+  <a href="https://github.com/" target="_blank"><img src="https://devicons.io/devicons/icons/github.svg" alt="GitHub" width="45" height="45"/></a>
+  <a href="https://www.figma.com/" target="_blank"><img src="https://devicons.io/devicons/icons/figma.svg" alt="Figma" width="45" height="45"/></a>
+</p>
+
+<h3 align="center">📊 GitHub Statistics</h3>
+
+<p align="center">
+  <img src="https://github-stats-extended.vercel.app/api?username=ProMBZ&show_icons=true&include_all_commits=true&theme=transparent&hide_border=true" alt="Muhammad's GitHub Statistics"/>
+</p>
+
+<p align="center">
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=ProMBZ&layout=compact&theme=transparent&hide_border=true" alt="Muhammad's Most Used Languages"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=ProMBZ&theme=transparent&hide_border=true" alt="Muhammad's GitHub Contribution Streak"/>
+</p>
