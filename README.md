@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/profile-banner.gif" alt="Muhammad Bin Zohaib — AI automation, agents and integrations" width="100%" />
+  <img src="assets/profile-banner.svg" alt="Muhammad Bin Zohaib — AI automation, agents and integrations" width="100%" />
 </p>
 
 <p align="center">
