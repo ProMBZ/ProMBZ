@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 58" role="img" aria-labelledby="title desc">
+  <title id="title">Areas of engineering</title>
+  <desc id="desc">A charcoal and lime typographic strip cycling through AI agents, workflow engineering, Voice AI and custom integrations.</desc>
+  <defs>
+    <pattern id="microgrid" width="24" height="24" patternUnits="userSpaceOnUse">
+      <path d="M24 0H0V24" fill="none" stroke="#c6ff5b" stroke-opacity=".055"/>
+    </pattern>
+  </defs>
+  <rect width="960" height="58" rx="3" fill="#0f1211"/>
+  <rect width="960" height="58" rx="3" fill="url(#microgrid)"/>
+  <path d="M0 1H960" stroke="#364137"/>
+  <path d="M0 57H960" stroke="#364137"/>
+  <path d="M26 15V43" stroke="#c6ff5b" stroke-width="2"/>
+  <text x="42" y="34" fill="#929c91" font-family="monospace" font-size="10" font-weight="700" letter-spacing="1.35">FOCUS /</text>
+  <path d="M135 15V43" stroke="#39443a" stroke-width="1"/>
+  <g font-family="Inter,Arial,Helvetica,sans-serif" font-size="17" font-weight="700" letter-spacing="1.25" fill="#eff1e8">
+    <text x="164" y="36">AI AGENTS
+      <animate attributeName="opacity" values="0;1;1;0;0" keyTimes="0;.06;.16;.25;1" dur="9.6s" begin="0s" repeatCount="indefinite"/>
+    </text>
+    <text x="164" y="36" opacity="0">WORKFLOW ENGINEERING
+      <animate attributeName="opacity" values="0;1;1;0;0" keyTimes="0;.06;.16;.25;1" dur="9.6s" begin="2.4s" repeatCount="indefinite"/>
+    </text>
+    <text x="164" y="36" opacity="0">VOICE AI
+      <animate attributeName="opacity" values="0;1;1;0;0" keyTimes="0;.06;.16;.25;1" dur="9.6s" begin="4.8s" repeatCount="indefinite"/>
+    </text>
+    <text x="164" y="36" opacity="0">CUSTOM INTEGRATIONS
+      <animate attributeName="opacity" values="0;1;1;0;0" keyTimes="0;.06;.16;.25;1" dur="9.6s" begin="7.2s" repeatCount="indefinite"/>
+    </text>
+  </g>
+  <g transform="translate(858 29)">
+    <circle r="3.5" fill="#c6ff5b">
+      <animate attributeName="opacity" values=".35;1;.35" dur="2.4s" repeatCount="indefinite"/>
+      <animate attributeName="r" values="3;4;3" dur="2.4s" repeatCount="indefinite"/>
+    </circle>
+    <text x="14" y="4" fill="#929c91" font-family="monospace" font-size="9" letter-spacing=".8">ENGINEERING / 01</text>
+  </g>
+</svg>
