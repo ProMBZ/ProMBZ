@@ -5,43 +5,30 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=13&duration=2600&pause=850&color=C6FF5B&center=true&vCenter=true&width=900&height=28&lines=AGENTIC+SYSTEMS;WORKFLOW+ENGINEERING;VOICE+AI+%26+INTEGRATIONS" alt="Agentic systems, workflow engineering, voice AI and integrations" />
+  <img src="assets/specialties.svg" alt="AI agents, workflow engineering, Voice AI and custom integrations" width="100%" />
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/mbz1415/">
-    <img src="https://img.shields.io/badge/CONNECT-ON_LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect with me on LinkedIn" />
-  </a>
+  <a href="https://www.linkedin.com/in/mbz1415/"><strong>LinkedIn ↗</strong></a>
   &nbsp; · &nbsp;
   <a href="mailto:muhammad.specials@gmail.com">Email</a>
 </p>
 
 ---
 
-<h2 align="center">ABOUT</h2>
+## About
 
-<p align="center">
-  I'm <strong>Muhammad Bin Zohaib</strong>, an AI Automation Engineer. I build AI agents and automation systems that connect models, software, and the work businesses need done.
-</p>
+I'm **Muhammad Bin Zohaib**, an AI Automation Engineer. I enjoy taking a process that's slow, repetitive, or spread across too many tools and figuring out how to make it work better with AI and automation.
 
-<p align="center">
-  From n8n and Make workflows to Voice AI and custom API integrations, I focus on taking ideas past the demo: dependable execution, clean handoffs, and human oversight where it matters.
-</p>
+Most of my work sits around **AI agents and workflow automation**. I build n8n and Make systems, connect language models to APIs and business tools, and develop Voice AI experiences that can do more than hold a conversation. When a workflow needs custom behaviour, I use JavaScript, Python, webhooks, and REST APIs to build the missing pieces rather than forcing a solution through tools that don't quite fit.
 
-<table width="100%">
-  <tr>
-    <td align="center" width="50%" valign="top">
-      <sub><strong>MY FOCUS</strong></sub><br />
-      Agentic systems · Workflow engineering<br />
-      Voice AI · Custom integrations
-    </td>
-    <td align="center" width="50%" valign="top">
-      <sub><strong>MY APPROACH</strong></sub><br />
-      Clear system design · Edge cases<br />
-      Reliable execution · Human oversight
-    </td>
-  </tr>
-</table>
+What I enjoy most is making all the parts work together: shaping the logic, handling edge cases, keeping data consistent, and knowing where a human should stay in the loop. I care about what happens after the demo, when a system has to be dependable, understandable, and useful in someone's day-to-day work.
+
+### Areas I work in
+
+- **AI agents:** Tool calling, structured outputs, RAG, multi-step reasoning, and human-in-the-loop workflows.
+- **Automation & integrations:** n8n, Make, custom nodes, APIs, webhooks, CRM systems, and operational workflows.
+- **Voice AI:** Conversational agents, call automation, appointment flows, and integrations using Vapi and Retell.
 
 <p align="center">
   <sub><strong>n8n Certified Expert</strong> &nbsp;·&nbsp; <strong>Verified Creator</strong> &nbsp;·&nbsp; <strong>Community Node Builder</strong></sub>
