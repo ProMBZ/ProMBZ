@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 370" role="img" aria-labelledby="title desc">
+  <title id="title">Muhammad Bin Zohaib | AI Automation Engineer</title>
+  <desc id="desc">A dark editorial engineering banner with bold typography, an abstract agent network, and a restrained blue and amber palette.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#070d18"/><stop offset=".58" stop-color="#0c1b31"/><stop offset="1" stop-color="#101b2a"/></linearGradient>
+    <radialGradient id="blueGlow" cx=".62" cy=".48" r=".62"><stop stop-color="#1769c8" stop-opacity=".32"/><stop offset=".55" stop-color="#0b3b78" stop-opacity=".16"/><stop offset="1" stop-color="#08101d" stop-opacity="0"/></radialGradient>
+    <radialGradient id="sphere" cx=".32" cy=".25" r=".78"><stop stop-color="#255c91"/><stop offset=".42" stop-color="#102d50"/><stop offset="1" stop-color="#07111f"/></radialGradient>
+    <linearGradient id="edge" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#59baff" stop-opacity="0"/><stop offset=".5" stop-color="#59baff" stop-opacity=".9"/><stop offset="1" stop-color="#ffb16c" stop-opacity=".5"/></linearGradient>
+    <pattern id="grid" width="42" height="42" patternUnits="userSpaceOnUse"><path d="M42 0H0V42" fill="none" stroke="#8ab7e2" stroke-opacity=".09"/></pattern>
+    <filter id="glow" x="-100%" y="-100%" width="300%" height="300%"><feGaussianBlur stdDeviation="5" result="blur"/><feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+    <clipPath id="sphereClip"><circle cx="935" cy="184" r="126"/></clipPath>
+  </defs>
+  <rect width="1200" height="370" rx="18" fill="url(#bg)"/><rect width="1200" height="370" rx="18" fill="url(#blueGlow)"/><rect width="1200" height="370" rx="18" fill="url(#grid)"/>
+  <path d="M0 328H1200" stroke="#a5c7e8" stroke-opacity=".16"/><path d="M58 46H1140" stroke="#9ac7f0" stroke-opacity=".22"/><path d="M58 46H385" stroke="url(#edge)" stroke-width="2"/>
+  <rect x="60" y="67" width="6" height="17" rx="3" fill="#66c0ff"/>
+  <text x="80" y="81" fill="#a9bfd8" font-family="Inter,Arial,sans-serif" font-size="12" font-weight="600" letter-spacing="2.1">PERSONAL ENGINEERING PROFILE</text>
+  <text x="1127" y="81" fill="#7f9bb8" text-anchor="end" font-family="monospace" font-size="11" letter-spacing="1.2">MBZ / 001</text>
+  <text x="58" y="166" fill="#f4f7fc" font-family="Inter,Arial,sans-serif" font-size="76" font-weight="800" letter-spacing="-2.2">MUHAMMAD</text>
+  <text x="58" y="246" fill="#f4f7fc" font-family="Inter,Arial,sans-serif" font-size="76" font-weight="800" letter-spacing="-2.5">BIN ZOHAIB</text>
+  <rect x="62" y="274" width="5" height="27" rx="2.5" fill="#66c0ff"/>
+  <text x="82" y="294" fill="#eaf3fc" font-family="Inter,Arial,sans-serif" font-size="20" font-weight="650" letter-spacing="1.1">AI AUTOMATION ENGINEER</text>
+  <text x="62" y="333" fill="#9fb6cf" font-family="monospace" font-size="11" letter-spacing=".8">AGENTS / WORKFLOW SYSTEMS / INTEGRATIONS</text>
+  <circle cx="935" cy="184" r="156" fill="#1d6fc3" opacity=".06"/><circle cx="935" cy="184" r="126" fill="url(#sphere)" stroke="#68baff" stroke-opacity=".48" stroke-width="1.2"/>
+  <g clip-path="url(#sphereClip)" fill="none" stroke="#79c6ff" stroke-opacity=".26"><ellipse cx="935" cy="184" rx="118" ry="40"/><ellipse cx="935" cy="184" rx="118" ry="78"/><ellipse cx="935" cy="184" rx="118" ry="108"/><ellipse cx="935" cy="184" rx="42" ry="126"/><ellipse cx="935" cy="184" rx="82" ry="126"/><path d="M800 184H1070M818 132H1052M818 236H1052M835 70L1035 298M1035 70L835 298" stroke-opacity=".17"/></g>
+  <ellipse cx="935" cy="184" rx="181" ry="65" fill="none" stroke="#61bfff" stroke-opacity=".45" transform="rotate(-25 935 184)"/><ellipse cx="935" cy="184" rx="171" ry="83" fill="none" stroke="#f5ae72" stroke-opacity=".32" transform="rotate(36 935 184)"/>
+  <path d="M742 96L835 125L888 184L1062 112M776 274L870 229L1025 270L1114 204" fill="none" stroke="#79c6ff" stroke-opacity=".42" stroke-width="1.2"/>
+  <g fill="#07111f" stroke="#8bd0ff" stroke-width="1.5"><circle cx="742" cy="96" r="5"/><circle cx="835" cy="125" r="4"/><circle cx="888" cy="184" r="4"/><circle cx="1062" cy="112" r="5"/><circle cx="776" cy="274" r="4"/><circle cx="870" cy="229" r="4"/><circle cx="1025" cy="270" r="5"/><circle cx="1114" cy="204" r="4"/></g>
+  <circle cx="1012" cy="122" r="5" fill="#ffb16c" filter="url(#glow)"/><circle cx="875" cy="95" r="4" fill="#66c0ff" filter="url(#glow)"/><circle cx="950" cy="188" r="5" fill="#f1f7ff" filter="url(#glow)"/>
+  <g font-family="monospace" font-size="10" letter-spacing="1.1" fill="#b4c9df"><text x="1080" y="116">REASON</text><text x="1080" y="132" fill="#ffb16c">01</text><text x="1080" y="226">ORCHESTRATE</text><text x="1080" y="242" fill="#66c0ff">02</text><text x="1080" y="286">EXECUTE</text><text x="1080" y="302" fill="#ffb16c">03</text></g>
+  <path d="M1070 120H1050M1070 230H1048M1070 290H1035" stroke="#8fb7dd" stroke-opacity=".45"/>
+  <text x="1140" y="350" fill="#6f8aa8" text-anchor="end" font-family="monospace" font-size="9" letter-spacing="1">THINK / CONNECT / BUILD</text>
+</svg>
