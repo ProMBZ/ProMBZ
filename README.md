@@ -10,12 +10,10 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/mbz1415/">
-    <img src="https://img.shields.io/badge/LINKEDIN-LET'S_CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect with me on LinkedIn" />
+    <img src="https://img.shields.io/badge/CONNECT-ON_LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect with me on LinkedIn" />
   </a>
-  &nbsp;
-  <a href="mailto:muhammad.specials@gmail.com">
-    <img src="https://img.shields.io/badge/EMAIL-SAY_HELLO-272d28?style=for-the-badge&logo=gmail&logoColor=white" alt="Email me" />
-  </a>
+  &nbsp; · &nbsp;
+  <a href="mailto:muhammad.specials@gmail.com">Email</a>
 </p>
 
 ---
@@ -23,24 +21,24 @@
 <h2 align="center">ABOUT</h2>
 
 <p align="center">
-  I'm <strong>Muhammad Bin Zohaib</strong>, an AI Automation Engineer focused on building intelligent systems that solve real problems.
+  I'm <strong>Muhammad Bin Zohaib</strong>, an AI Automation Engineer. I build AI agents and automation systems that connect models, software, and the work businesses need done.
 </p>
 
 <p align="center">
-  My work spans <strong>AI agents, workflow automation, Voice AI, and API integrations</strong>. I combine LLMs with n8n, Make, JavaScript, and Python to connect tools, data, and business processes into practical, reliable systems.
+  From n8n and Make workflows to Voice AI and custom API integrations, I focus on taking ideas past the demo: dependable execution, clean handoffs, and human oversight where it matters.
 </p>
 
 <table width="100%">
   <tr>
     <td align="center" width="50%" valign="top">
-      <sub><strong>WHAT I FOCUS ON</strong></sub><br />
-      AI agents · Workflow engineering<br />
+      <sub><strong>MY FOCUS</strong></sub><br />
+      Agentic systems · Workflow engineering<br />
       Voice AI · Custom integrations
     </td>
     <td align="center" width="50%" valign="top">
-      <sub><strong>HOW I APPROACH IT</strong></sub><br />
-      Clear logic · Reliable execution<br />
-      Human oversight · Maintainability
+      <sub><strong>MY APPROACH</strong></sub><br />
+      Clear system design · Edge cases<br />
+      Reliable execution · Human oversight
     </td>
   </tr>
 </table>
