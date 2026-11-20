@@ -18,25 +18,11 @@
 
 **I build AI systems that do real work.**
 
-I'm **Muhammad Bin Zohaib**, an AI Automation Engineer, n8n Verified Creator, Certified Expert, and Community Node Builder. I build AI agents, automation workflows, custom integrations, and software that turn messy business processes into systems people can rely on.
+I'm Muhammad, an AI Automation Engineer and n8n Certified Expert, Verified Creator, and Community Node Builder. I build AI agents, automations, integrations, and software using n8n, Make, JavaScript, Python, APIs, and Voice AI.
 
-My work spans **coding, low-code/no-code automation, and Voice AI**. I work with n8n and Make, build with JavaScript and Python, connect models through APIs, and create voice experiences for real business use cases. I choose the right approach for the problem, whether that's a visual workflow, custom code, or a combination of both.
+I care about making things work beyond the demo: handling edge cases, monitoring failures, and building systems people can rely on. Through **AI Coders**, I also work with teams to solve real business problems with AI and automation.
 
-I'm interested in what happens after the demo: reliability, error handling, scalability, cost, monitoring, and human approval. A workflow that runs once is easy. Building one that keeps working with real users, real data, API failures, and unexpected edge cases is the engineering I enjoy.
-
-Through **AI Coders**, I also collaborate with businesses on custom AI agents, automation systems, and software built around real operational problems. I've worked with international teams and enjoy turning complex requirements into practical systems that make everyday work easier.
-
-### What I build
-
-- AI agents for chat, voice, and business operations
-- n8n and Make workflows, custom community nodes, and API integrations
-- CRM, lead management, sales, and reactivation systems
-- AI-powered support, internal tools, and operational systems
-- Voice AI experiences and AI-enabled applications
-
-<p align="center">
-  <strong>n8n Certified Expert</strong> &nbsp;·&nbsp; <strong>n8n Verified Creator</strong> &nbsp;·&nbsp; <strong>n8n Community Node Builder</strong>
-</p>
+**Focus:** AI agents · Workflow automation · API integrations · Voice AI · Software
 
 <p align="center">
   Open to remote AI Automation, AI Agent, and Voice AI engineering opportunities.
@@ -44,16 +30,22 @@ Through **AI Coders**, I also collaborate with businesses on custom AI agents, a
 
 ---
 
-## GitHub Statistics
+## My work on GitHub
 
-<p align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=ProMBZ&show_icons=true&include_all_commits=true&show=contributions,prs_merged,reviews&hide_rank=true&theme=transparent&hide_border=true" alt="GitHub statistics, including all-time commits, contributions, merged pull requests, and reviews" />
-</p>
+A quick look at what I contribute: commits, pull requests, the code I work with, and consistency over time.
 
-<p align="center">
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=ProMBZ&layout=compact&langs_count=8&theme=transparent&hide_border=true" alt="Most used programming languages across public repositories" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=ProMBZ&theme=transparent&hide_border=true" alt="GitHub contribution streak" />
-</p>
+<table>
+  <tr>
+    <td width="50%" align="center">
+      <img src="https://github-stats-extended.vercel.app/api?username=ProMBZ&show_icons=true&include_all_commits=true&show=contributions,prs_merged,reviews&hide_rank=true&theme=transparent&hide_border=true" alt="GitHub contributions, all-time commits, merged pull requests, and reviews" width="100%" />
+    </td>
+    <td width="50%" align="center">
+      <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=ProMBZ&layout=compact&langs_count=8&theme=transparent&hide_border=true" alt="Most used programming languages across public repositories" width="100%" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img src="https://streak-stats.demolab.com?user=ProMBZ&theme=transparent&hide_border=true" alt="GitHub contribution streak" width="100%" />
+    </td>
+  </tr>
+</table>
